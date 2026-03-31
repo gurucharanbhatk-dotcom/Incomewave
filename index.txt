@@ -1,1 +1,7 @@
-google.com, pub-1090761550469708, DIRECT, f08c47fec0942fa0
+<head>
+  <!-- Google AdSense -->
+  <script async 
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1090761550469708"
+    crossorigin="anonymous">
+  </script>
+</head>
