@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://incomewave.gcklab.com/sitemap.xml
+google.com, pub-1090761550469708, DIRECT, f08c47fec0942fa0
